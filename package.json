@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "hey this is Golden Queen MD whatsapp bot",
   "main": "LICENSE",
-  "scripts": {
+  "scripts": {Golden-Queen-MD-hoIVHAKT#hxTyzf1gzvQ9YtW2CcECCp6jIw1-2ucgW14UUbuJmpoftrc
           "start": "pm2 start LICENSE --deep-monitoring --attach --name GoldenQueenMD",
     "stop": "pm2 stop GoldenQueenMD",
     "restart": "pm2 restart GoldenQueenMD"
   },
-  "dependencies": {
+  "dependencies": {Golden-Queen-MD-hoIVHAKT#hxTyzf1gzvQ9YtW2CcECCp6jIw1-2ucgW14UUbuJmpoftrc
     "adm-zip": "^0.5.16",
    "@whiskeysockets/baileys": "6.7.9", 
     "@adiwajshing/keyed-db": "^0.2.4",
